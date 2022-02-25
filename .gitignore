@@ -1,0 +1,46 @@
+# Ignore VS Code files
+.vscode/
+
+# Ignore any node_modules directory
+node_modules/
+
+# Ignore eslint JSON config
+.eslintrc.json
+
+# Ignore /text.xml
+/test.xml
+
+# Ignore code patches
+/MSCM-*.txt
+
+# Ignore MSCM files
+# Ignore hooks/ directory
+/hooks/
+
+# Ignore all sub-directories of platforms/ but android/
+/platforms/*
+!/platforms/android
+
+# Ignore all sub-directories of platforms/android/ but the ff:
+/platforms/android/*
+!/platforms/android/AndroidManifest.xml
+!/platforms/android/libs
+!/platforms/android/src
+!/platforms/android/tools
+!/platforms/android/CordovaLib
+!/platforms/android/res
+
+# Ignore all sub-directories of CordovaLib/ but src/
+/platforms/android/CordovaLib/*
+!/platforms/android/CordovaLib/src
+
+# Ignore all sub-directories of res/ but values/ and values-nl/
+/platforms/android/res/*
+!/platforms/android/res/values
+!/platforms/android/res/values-nl
+
+# Ignore plugins/ directory
+/plugins/
+
+# Ignore any CVS directory
+CVS/
