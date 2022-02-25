@@ -1,7 +1,7 @@
 {
-  "name": "mscm-ionic-gulp",
+  "name": "mbx-gulp",
   "version": "1.0.0",
-  "description": "MSCM Ionic with Gulp common files.",
+  "description": "mbx-gulp",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
