@@ -8,7 +8,6 @@
     "ionic.project": true,
     "jshintrc": true,
     "local.properties": true,
-    "*servers.json": true,
     "node_modules": true,
     "package-lock.json": true,
     "packages": true,
