@@ -11,9 +11,8 @@ node_modules/
 /test.xml
 
 # Ignore code patches
-/MSCM-*.txt
+/*-patch.txt
 
-# Ignore MSCM files
 # Ignore hooks/ directory
 /hooks/
 
