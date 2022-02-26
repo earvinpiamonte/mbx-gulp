@@ -18,7 +18,7 @@ npm install --global gulp-cli
 1. Open up a terminal and `cd` to the app project.
 1. Run `gulp watch`.
 1. Code...
-1. Hit "Run" on Eclipse IDE.
+1. Run the project Activity on Eclipse.
 
 ## Maintainer
 
