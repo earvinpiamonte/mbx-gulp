@@ -1,0 +1,18 @@
+{
+  "files.exclude": {
+    ".cvsignore": true,
+    ".project": true,
+    "build.xml": true,
+    "config.xml": true,
+    "hooks": true,
+    "ionic.project": true,
+    "jshintrc": true,
+    "local.properties": true,
+    "mscmservers.json": true,
+    "node_modules": true,
+    "package-lock.json": true,
+    "packages": true,
+    "plugins": true,
+    "scss": true
+  }
+}

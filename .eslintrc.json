@@ -1,0 +1,31 @@
+{
+  "env": {
+    "browser": true
+  },
+  "extends": "eslint:recommended",
+  "parserOptions": {
+    "ecmaVersion": 2018
+  },
+  "globals": {
+    "$": true,
+    "ReturnDataObject": true,
+    "angular": true,
+    "appDataObject": true,
+    "complete": true,
+    "cordova": true,
+    "ionic": true,
+    "moment": true,
+    "notify": true,
+    "signOut": true,
+    "xmlToJson": true
+  },
+  "rules": {
+    "curly": "error",
+    "no-console": "warn",
+    "no-mixed-spaces-and-tabs": "off",
+    "no-param-reassign": "warn",
+    "no-unused-vars": "warn",
+    "no-var": "warn",
+    "semi": "error"
+  }
+}
