@@ -13,6 +13,37 @@ Install the gulp command line utility globally.
 npm install --global gulp-cli
 ```
 
+## Setup and installation
+
+There are two ways to setup this project on an existing app project.
+
+1. Setup with via npx (recommended)
+1. Setup with git and npm
+
+### 1. Setup via npx
+
+```
+npx mbx-cli build -u
+```
+
+Visit [https://github.com/earvinpiamonte/mbx-cli](https://github.com/earvinpiamonte/mbx-cli) for full documentaion of `mbx-cli`.
+
+### 2. Setup with git and npm
+
+Clone this project via git and install the dependencies via npm.
+
+```
+cd APP_WORKSPACE_2022-01/app/
+```
+
+```
+git init && git remote add origin https://github.com/earvinpiamonte/mbx-gulp.git && git pull origin main && rm -rf .git
+```
+
+```
+npm i
+```
+
 ## Available commands/ tasks
 
 1. `gulp` - Default task that minifies styles; copies the watched files to the designated folder on `platforms/`.
