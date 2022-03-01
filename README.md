@@ -7,13 +7,9 @@
 
 ## Prerequisite
 
-Install the gulp command line utility globally.
+1. [Node.js](https://nodejs.org/en/download/).
 
-```
-npm install --global gulp-cli
-```
-
-## Setup
+## Setup to project
 
 ```
 cd APP_WORKSPACE_2022-01/app/
@@ -27,7 +23,7 @@ Visit [https://github.com/earvinpiamonte/mbx-cli](https://github.com/earvinpiamo
 
 ## Available commands/ tasks
 
-1. `gulp` - Default task that minifies styles; copies the watched files to the designated folder on `platforms/`.
+1. `gulp` - Default task that minifies custom CSS; copies the watched files to the designated folder on `platforms/`.
 1. `gulp watch` - Watches for file changes, then automatically applies the updates to the designated folder on `platforms/`.
 
 ## Recomended workflow
