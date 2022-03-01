@@ -39,14 +39,14 @@ Visit [https://github.com/earvinpiamonte/mbx-cli](https://github.com/earvinpiamo
 
 ## Watched files
 
-- `merges/android/index.html` or `www/index.html`
-- `merges/android/html/**/*`
+- `db/*`
 - `merges/android/css/**/*`
 - `merges/android/css/custom.css`
-- `www/app/**/*`
+- `merges/android/html/**/*`
 - `merges/android/images/svg.html`
+- `merges/android/index.html` or `www/index.html`
+- `www/app/**/*`
 - `www/res/**/*`
-- `db/*`
 
 ## Maintainer
 
