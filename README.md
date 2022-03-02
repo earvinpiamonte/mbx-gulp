@@ -19,7 +19,7 @@ cd APP_WORKSPACE_2022-01/app/
 npx mbx-cli build -u
 ```
 
-Visit [https://github.com/earvinpiamonte/mbx-cli](https://github.com/earvinpiamonte/mbx-cli) for full documentaion of `mbx-cli`.
+Visit [npmjs.com/package/mbx-cli](https://www.npmjs.com/package/mbx-cli) for full documentaion of `mbx-cli`.
 
 ## Available commands/ tasks
 
