@@ -15,5 +15,21 @@
     "packages": true,
     "plugins": true,
     "scss": true,
-  }
+  },
+  "editor.formatOnSave": false,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features",
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "html.format.wrapAttributes": "force-expand-multiline",
+  "prettier.arrowParens": "avoid",
+  "prettier.embeddedLanguageFormatting": "auto",
+  "prettier.enable": true,
+  "prettier.printWidth": 120,
+  "prettier.semi": true,
+  "prettier.singleQuote": true,
+  "prettier.tabWidth": 4,
+  "prettier.trailingComma": "all",
 }
