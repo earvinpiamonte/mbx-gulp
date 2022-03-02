@@ -6,6 +6,9 @@
   "parserOptions": {
     "ecmaVersion": 2018
   },
+  "ignorePatterns": [
+    "gulpfile.js"
+  ],
   "globals": {
     "$": true,
     "ReturnDataObject": true,
