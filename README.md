@@ -27,14 +27,14 @@ Visit [npmjs.com/package/mbx-cli](https://www.npmjs.com/package/mbx-cli) for ful
 ## Available commands/ tasks
 
 1. Minify custom CSS; copy the watched files to the designated folder on `platforms/`:
-  ```sh
-  gulp
-  ```
+    ```sh
+    gulp
+    ```
 
 2. Watch for file changes, then automatically apply the updates to the designated folder on `platforms/`:
-  ```sh
-  gulp watch
-  ```
+    ```sh
+    gulp watch
+    ```
 
 ## Recomended workflow
 
