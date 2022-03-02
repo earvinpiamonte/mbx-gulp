@@ -4,6 +4,9 @@
 
 - Copies files (HTML, CSS, JS, SQL) from the source directory to `platforms/`
 - Minifies custom CSS
+- Prettier config
+- ESLint config
+- VS Code settings
 
 ## Prerequisite
 
