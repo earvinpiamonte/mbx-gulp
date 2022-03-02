@@ -2,6 +2,7 @@
   "files.exclude": {
     ".cvsignore": true,
     ".eslintrc.json": true,
+    ".prettierignore": true,
     ".project": true,
     ".vscode/": true,
     "config.xml": true,
