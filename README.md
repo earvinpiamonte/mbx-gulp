@@ -14,11 +14,11 @@
 
 ## Setup to project
 
-```
+```sh
 cd APP_WORKSPACE_2022-01/app/
 ```
 
-```
+```sh
 npx mbx-cli build -u
 ```
 
@@ -26,8 +26,15 @@ Visit [npmjs.com/package/mbx-cli](https://www.npmjs.com/package/mbx-cli) for ful
 
 ## Available commands/ tasks
 
-1. `gulp` - Default task that minifies custom CSS; copies the watched files to the designated folder on `platforms/`.
-1. `gulp watch` - Watches for file changes, then automatically applies the updates to the designated folder on `platforms/`.
+1. Minify custom CSS; copy the watched files to the designated folder on `platforms/`:
+  ```sh
+  gulp
+  ```
+
+2. Watch for file changes, then automatically apply the updates to the designated folder on `platforms/`:
+  ```sh
+  gulp watch
+  ```
 
 ## Recomended workflow
 
