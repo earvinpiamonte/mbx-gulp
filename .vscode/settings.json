@@ -18,6 +18,7 @@
     "scss": true,
   },
   "editor.formatOnSave": false,
+  "editor.renderWhitespace": "trailing",
   "[html]": {
     "editor.defaultFormatter": "vscode.html-language-features",
   },
