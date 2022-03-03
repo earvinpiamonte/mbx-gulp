@@ -4,8 +4,9 @@
 # Ignore any node_modules directory
 node_modules/
 
-# Ignore eslint JSON config
+# Ignore config files
 .eslintrc.json
+.prettierignore
 
 # Ignore /text.xml
 /test.xml
