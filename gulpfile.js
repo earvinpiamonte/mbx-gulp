@@ -7,11 +7,13 @@ const reverseDirectorySegments = __dirname.split('\\').reverse();
 const [currentDirectory] = reverseDirectorySegments;
 
 const mpc = 'mpc';
+const sim = 'sim';
+const indexOnAndroid = currentDirectory == mpc || currentDirectory == sim;
 const watchOptions = { ignoreInitial: false };
 
 const paths = {
   index: [
-    currentDirectory == mpc ? 'merges/android/index.html' : 'www/index.html',
+    indexOnAndroid ? 'merges/android/index.html' : 'www/index.html',
     'platforms/android/assets/www/',
   ],
   html: ['merges/android/html/**/*', 'platforms/android/assets/www/html/'],
