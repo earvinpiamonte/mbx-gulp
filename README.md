@@ -10,7 +10,17 @@
 
 ## Prerequisite
 
+> NOTE: No need to do steps 2 and 3 if using [mbx-cli](https://www.npmjs.com/package/mbx-cli) (recommended in starting a new workspace) or have the ESLint and Gulp CLI previously installed.
+
 1. [Node.js](https://nodejs.org/en/download/).
+1. Install ESLint globally
+    ```sh
+    npm i -g eslint
+    ```
+1. Install Gulp CLI globally
+    ```sh
+    npm i -g gulp-cli
+    ```
 
 ## Setup to project
 
