@@ -29,6 +29,7 @@ node_modules/
 !/platforms/android/tools
 !/platforms/android/CordovaLib
 !/platforms/android/res
+!/platforms/android/assets
 
 # Ignore all sub-directories of CordovaLib/ but src/
 /platforms/android/CordovaLib/*
@@ -38,6 +39,10 @@ node_modules/
 /platforms/android/res/*
 !/platforms/android/res/values
 !/platforms/android/res/values-nl
+
+# Ignore all sub-directories of www/ but f4Platform/
+/platforms/android/assets/www/*
+!/platforms/android/assets/www/f4Platform
 
 # Ignore plugins/ directory
 /plugins/
