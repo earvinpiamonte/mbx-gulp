@@ -41,6 +41,8 @@ node_modules/
 !/platforms/android/res/values-nl
 
 # Ignore all sub-directories of www/ but f4Platform/
+/platforms/android/assets/*
+!/platforms/android/assets/www
 /platforms/android/assets/www/*
 !/platforms/android/assets/www/f4Platform
 
