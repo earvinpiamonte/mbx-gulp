@@ -1,5 +1,7 @@
 ## mbx-gulp
 
+Preset for a custom Ionic v1 project (configs and automated tasks).
+
 ## Features
 
 - Copies files (HTML, CSS, JS, SQL) from the source directory to `platforms/`
@@ -23,6 +25,8 @@
     ```
 
 ## Setup to project
+
+> NOTE: Stop any currently running processes such as `gulp watch` before running any `npx mbx-cli` commands.
 
 ```sh
 cd APP_WORKSPACE_2022-01/app/
