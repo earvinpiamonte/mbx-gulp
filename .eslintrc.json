@@ -29,6 +29,6 @@
     "no-param-reassign": "warn",
     "no-unused-vars": "warn",
     "no-var": "warn",
-    "semi": "error"
+    "semi": "warn"
   }
 }
