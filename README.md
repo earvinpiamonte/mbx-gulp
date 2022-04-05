@@ -33,7 +33,7 @@ cd APP_WORKSPACE_2022-01/app/
 ```
 
 ```sh
-npx mbx-cli build -u
+npx mbx-cli update
 ```
 
 Visit [npmjs.com/package/mbx-cli](https://www.npmjs.com/package/mbx-cli) for full documentaion of `mbx-cli`.
