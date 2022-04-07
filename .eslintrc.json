@@ -20,7 +20,8 @@
     "moment": true,
     "notify": true,
     "signOut": true,
-    "xmlToJson": true
+    "xmlToJson": true,
+    "XML": true
   },
   "rules": {
     "curly": "error",
