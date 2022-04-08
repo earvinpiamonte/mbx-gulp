@@ -4,7 +4,7 @@
   "description": "mbx-gulp",
   "main": "index.js",
   "scripts": {
-    "postinstall" : "code --install-extension dbaeumer.vscode-eslint --force",
+    "postinstall" : "code --install-extension dbaeumer.vscode-eslint --force && code --install-extension ecmel.vscode-html-css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Noel Earvin Piamonte",
