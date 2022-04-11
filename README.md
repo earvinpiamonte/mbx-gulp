@@ -8,6 +8,7 @@ Preset for a custom Ionic v1 project (configs and automated tasks).
 - Minifies custom CSS
 - Prettier config
 - ESLint config
+- Debugger config
 - VS Code settings and extensions
 
 ## Included VS Code extensions
