@@ -1,6 +1,6 @@
 ## mbx-gulp
 
-Preset for a custom Ionic v1 project (configs and automated tasks).
+Custom Ionic v1 dot files and gulpfile for workflow automation.
 
 ## Features
 
