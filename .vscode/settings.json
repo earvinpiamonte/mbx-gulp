@@ -23,7 +23,7 @@
     "/merges/android/css/custom.css",
     "/merges/android/css/hex-values.css",
     "/merges/android/css/ionic.app.min.css",
-    "/merges/android/css/theming.css"
+    "/merges/android/css/theming.css",
   ],
   "editor.formatOnSave": false,
   "editor.renderWhitespace": "trailing",
