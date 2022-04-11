@@ -8,7 +8,13 @@ Preset for a custom Ionic v1 project (configs and automated tasks).
 - Minifies custom CSS
 - Prettier config
 - ESLint config
-- VS Code settings
+- VS Code settings and extensions
+
+## Included VS Code extensions
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+- [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+- [Android WebView Debugging](https://marketplace.visualstudio.com/items?itemName=mpotthoff.vscode-android-webview-debug)
 
 ## Prerequisite
 
@@ -24,7 +30,7 @@ Preset for a custom Ionic v1 project (configs and automated tasks).
     npm i -g gulp-cli
     ```
 
-## Setup to project
+## Setup to workspace project
 
 > NOTE: Stop any currently running processes such as `gulp watch` before running any `npx mbx-cli` commands.
 
