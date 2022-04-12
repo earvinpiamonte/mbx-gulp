@@ -41,4 +41,7 @@
   "prettier.singleQuote": true,
   "prettier.tabWidth": 4,
   "prettier.trailingComma": "all",
+  "vscode-edge-devtools.port": 9227,
+  "vscode-edge-devtools.mirrorEdits": false,
+  "vscode-edge-devtools.webhint": false,
 }
