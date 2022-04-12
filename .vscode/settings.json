@@ -10,6 +10,7 @@
     "gulpfile.js": true,
     "hooks": true,
     "ionic.project": true,
+    "jsconfig.json": true,
     "jshintrc": true,
     "local.properties": true,
     "node_modules": true,
