@@ -4,7 +4,7 @@
     "description": "mbx-gulp",
     "main": "index.js",
     "scripts": {
-        "postinstall": "code --install-extension dbaeumer.vscode-eslint --force && code --install-extension ecmel.vscode-html-css --force && code --install-extension pranaygp.vscode-css-peek --force && code --install-extension mpotthoff.vscode-android-webview-debug --force",
+        "postinstall": "code --install-extension dbaeumer.vscode-eslint --force && code --uninstall-extension ecmel.vscode-html-css && code --uninstall-extension pranaygp.vscode-css-peek && code --install-extension mpotthoff.vscode-android-webview-debug --force && code --install-extension pucelle.vscode-css-navigation --force",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "Noel Earvin Piamonte",

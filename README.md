@@ -13,8 +13,7 @@ Custom Ionic v1 dot files and gulpfile for workflow automation.
 
 ## Included VS Code extensions
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-- [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
-- [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+- [CSS Navigation](https://marketplace.visualstudio.com/items?itemName=pucelle.vscode-css-navigation)
 - [Android WebView Debugging](https://marketplace.visualstudio.com/items?itemName=mpotthoff.vscode-android-webview-debug)
 
 ## Prerequisite

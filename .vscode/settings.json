@@ -19,12 +19,10 @@
     "plugins": true,
     "scss": true,
   },
-  "css.styleSheets": [
-    "/merges/android/css/app.min.css",
-    "/merges/android/css/custom.css",
-    "/merges/android/css/hex-values.css",
-    "/merges/android/css/ionic.app.min.css",
-    "/merges/android/css/theming.css",
+  "CSSNavigation.excludeGlobPatterns": [
+    "**/merges/**/custom.min.css",
+    "**/merges/**/ionic.app.css",
+    "**/platforms/**",
   ],
   "editor.formatOnSave": false,
   "editor.renderWhitespace": "trailing",
