@@ -5,9 +5,14 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "type": "android-webview",
+      "name": "🔥 Debug",
+      "type": "cordova",
       "request": "attach",
-      "name": "🔥 Debug"
+      "platform": "android",
+      "target": "device",
+      "port": 9227,
+      "sourceMaps": true,
+      "cwd": "${workspaceFolder}"
     }
   ]
 }
