@@ -18,6 +18,7 @@
     "packages": true,
     "plugins": true,
     "scss": true,
+    "typings/": true,
   },
   "CSSNavigation.excludeGlobPatterns": [
     "**/merges/**/custom.min.css",
