@@ -30,6 +30,8 @@
     "no-param-reassign": "warn",
     "no-unused-vars": "warn",
     "no-var": "warn",
-    "semi": "warn"
+    "semi": "warn",
+    "prefer-const": "warn",
+    "eqeqeq": "warn",
   }
 }
