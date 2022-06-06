@@ -32,6 +32,6 @@
     "no-var": "warn",
     "semi": "warn",
     "prefer-const": "warn",
-    "eqeqeq": "warn",
+    "eqeqeq": "warn"
   }
 }
