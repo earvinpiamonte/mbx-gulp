@@ -21,6 +21,9 @@ node_modules/
 *.drawio
 *.dio
 
+# Ignore PDF files
+*.pdf
+
 # Ignore hooks/ directory
 /hooks/
 
