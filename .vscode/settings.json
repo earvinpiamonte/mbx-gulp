@@ -35,10 +35,11 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "html.format.wrapAttributes": "force-expand-multiline",
+  "html.format.wrapLineLength": 180,
   "prettier.arrowParens": "avoid",
   "prettier.embeddedLanguageFormatting": "auto",
   "prettier.enable": true,
-  "prettier.printWidth": 120,
+  "prettier.printWidth": 180,
   "prettier.semi": true,
   "prettier.singleQuote": true,
   "prettier.tabWidth": 4,
