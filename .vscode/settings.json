@@ -1,7 +1,6 @@
 {
   "files.exclude": {
     ".cvsignore": true,
-    ".eslintrc.json": true,
     ".gitignore": true,
     ".prettierignore": true,
     ".project": true,

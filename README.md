@@ -7,25 +7,20 @@ Custom Ionic v1 dot files and gulpfile for workflow automation.
 - Copies files (HTML, CSS, JS, SQL) from the source directory to `platforms/`
 - Minifies custom CSS
 - Prettier config
-- ESLint config
 - Debugger config
 - VS Code settings and extensions
 
 ## Included VS Code extensions
-- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
 - [CSS Navigation](https://marketplace.visualstudio.com/items?itemName=pucelle.vscode-css-navigation)
 - [Cordova Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.cordova-tools)
 - [Microsoft Edge Tools for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-edgedevtools.vscode-edge-devtools)
 
 ## Prerequisite
 
-> NOTE: No need to do steps 2 and 3 if using [mbx-cli](https://www.npmjs.com/package/mbx-cli) (recommended in starting a new workspace) or have the ESLint and Gulp CLI previously installed.
+> NOTE: No need to do step 2 if using [mbx-cli](https://www.npmjs.com/package/mbx-cli) (recommended in starting a new workspace) or have the Gulp CLI previously installed.
 
 1. [Node.js](https://nodejs.org/en/download/).
-1. Install ESLint globally
-    ```sh
-    npm i -g eslint
-    ```
 1. Install Gulp CLI globally
     ```sh
     npm i -g gulp-cli
