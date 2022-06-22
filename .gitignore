@@ -34,6 +34,7 @@ node_modules/
 # Ignore all sub-directories of platforms/android/ but the ff:
 /platforms/android/*
 !/platforms/android/AndroidManifest.xml
+!/platforms/android/build.xml
 !/platforms/android/libs
 !/platforms/android/src
 !/platforms/android/tools
