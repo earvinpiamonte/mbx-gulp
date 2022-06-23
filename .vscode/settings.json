@@ -1,5 +1,6 @@
 {
   "files.exclude": {
+    "*patch.txt": true,
     ".cvsignore": true,
     ".gitignore": true,
     ".prettierignore": true,
