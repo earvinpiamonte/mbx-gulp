@@ -19,6 +19,8 @@
     "plugins": true,
     "scss": true,
     "typings/": true,
+    "build.xml": true,
+    "mscmservers.json": true,
   },
   "CSSNavigation.excludeGlobPatterns": [
     "**/merges/**/custom.min.css",
