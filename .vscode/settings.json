@@ -21,6 +21,7 @@
     "typings/": true,
     "build.xml": true,
     "mscmservers.json": true,
+    "AndroidManifest.xml": true,
   },
   "CSSNavigation.excludeGlobPatterns": [
     "**/merges/**/custom.min.css",
