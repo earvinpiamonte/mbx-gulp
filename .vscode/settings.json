@@ -23,6 +23,7 @@
     "plugins": true,
     "project.properties": true,
     "scss": true,
+    "tools/": true,
     "typings/": true,
   },
   "CSSNavigation.excludeGlobPatterns": [
