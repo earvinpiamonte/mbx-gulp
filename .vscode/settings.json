@@ -33,6 +33,7 @@
   ],
   "editor.formatOnSave": false,
   "editor.renderWhitespace": "trailing",
+  "editor.tabSize": 4,
   "[html]": {
     "editor.defaultFormatter": "vscode.html-language-features",
   },
