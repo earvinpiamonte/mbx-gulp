@@ -10,7 +10,7 @@ Custom Ionic v1 dot files and gulpfile for workflow automation.
 - Debugger config
 - VS Code settings and extensions
 
-## Included VS Code extensions
+## VS Code extension pack
 - [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
 - [CSS Navigation](https://marketplace.visualstudio.com/items?itemName=pucelle.vscode-css-navigation)
 - [Cordova Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.cordova-tools)
@@ -35,7 +35,7 @@ cd APP_WORKSPACE_2022-01/app/
 ```
 
 ```sh
-npx mbx-cli update
+npx mbx-cli install
 ```
 
 Visit [npmjs.com/package/mbx-cli](https://www.npmjs.com/package/mbx-cli) for full documentaion of `mbx-cli`.
