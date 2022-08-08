@@ -1,6 +1,6 @@
 ## mbx-gulp
 
-Custom Ionic v1 dot files and gulpfile for workflow automation.
+Custom Ionic v1 dot files and gulpfile for improved workflow.
 
 ## Features
 
@@ -26,7 +26,7 @@ Custom Ionic v1 dot files and gulpfile for workflow automation.
     npm i -g gulp-cli
     ```
 
-## Setup to workspace project
+## Add to an existing workspace project
 
 > NOTE: Stop any currently running processes such as `gulp watch` before running any `npx mbx-cli` commands.
 
