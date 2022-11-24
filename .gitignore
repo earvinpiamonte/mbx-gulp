@@ -62,3 +62,6 @@ node_modules/
 
 # Ignore any CVS directory
 CVS/
+
+# Ignore (.class) compiled files (auto-generated files)
+*.class
