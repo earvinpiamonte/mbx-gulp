@@ -31,6 +31,12 @@ Custom Ionic v1 dot files and gulpfile for improved workflow.
 > NOTE: Stop any currently running processes such as `gulp watch` before running any `npx mbx-cli` commands.
 
 ```sh
+cd clonedProject/app/
+```
+
+or
+
+```sh
 cd APP_WORKSPACE_2022-01/app/
 ```
 
@@ -38,26 +44,26 @@ cd APP_WORKSPACE_2022-01/app/
 npx mbx-cli install
 ```
 
-Visit [npmjs.com/package/mbx-cli](https://www.npmjs.com/package/mbx-cli) for full documentaion of `mbx-cli`.
+Visit [earv.in/mbxc](https://www.earv.in/mbxc) for the full documentaion of `mbx-cli`.
 
 ## Available commands/ tasks
 
-1. Minify custom CSS; copy the watched files to the designated folder on `platforms/`:
+- Minify custom CSS; copy the watched files to the designated folder on `platforms/`:
     ```sh
     gulp
     ```
 
-2. Watch for file changes, then automatically apply the updates to the designated folder on `platforms/`:
+- Watch for file changes, then automatically apply the updates to the designated folder on `platforms/`:
     ```sh
     gulp watch
     ```
 
 ## Recomended workflow
 
-1. Open up a terminal and `cd` to the app project.
-1. Run `gulp watch`.
+1. Open up a terminal and `cd` to the app project
+1. Run `gulp watch`
 1. Code...
-1. Run the project Activity on Eclipse.
+1. Run the project on IDE
 
 ## Watched files
 
@@ -72,4 +78,4 @@ Visit [npmjs.com/package/mbx-cli](https://www.npmjs.com/package/mbx-cli) for ful
 
 ## Maintainer
 
-Noel Earvin Piamonte
+Designed and developed by [Noel Earvin Piamonte](https://earv.in/)
